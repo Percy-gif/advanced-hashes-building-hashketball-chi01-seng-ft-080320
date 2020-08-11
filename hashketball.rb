@@ -106,8 +106,8 @@ away: {
           steals: 1,     
           blocks: 1,      
           slam_dunks: 0, 
-},
-      {
+         },
+         {
           name: "Kemba Walker",
           number: 33,    
           shoe: 15,       
@@ -118,9 +118,9 @@ away: {
           blocks: 5,      
           slam_dunks: 12,  
           } 
-          ]
-          }
-          }
+        ]
+      }
+    }
 end 
       
       
