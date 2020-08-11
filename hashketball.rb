@@ -1,13 +1,13 @@
 # Write your code here!
 
 def game_hash
-  
-{home: {
+{
+  home: {
       team_name: "Brooklyn Nets",
       colors: ["Black", "White"],
       players: [
          {
-          name: => "Alan Anderson",
+          name: "Alan Anderson",
           number: 0,    
           shoe: 16,       
           points: 22, 
@@ -15,7 +15,7 @@ def game_hash
           assists:  12     
           steals: 3,      
           blocks: 1,      
-          slam_dunks: 1,  
+          slam_dunks: 1  
          }, 
          {
           name: "Reggies Evans",
@@ -75,7 +75,7 @@ away: {
           assists: 1,     
           steals: 2,     
           blocks: 7,      
-          slam_dunks: 2,  
+          slam_dunks: 2  
     
           name: "Bismack Biyombo",
           number: 0,    
@@ -85,7 +85,7 @@ away: {
           assists: 7,     
           steals: 22,     
           blocks: 15,      
-          slam_dunks: 10,  
+          slam_dunks: 10  
       
           name: "DeSagna Diop ",
           number: 2,    
@@ -95,7 +95,7 @@ away: {
           assists: 12,     
           steals: 4,     
           blocks: 5,      
-          slam_dunks: 5,  
+          slam_dunks: 5  
       
           name: "Ben Gordon",
           number: 8,    
@@ -105,9 +105,9 @@ away: {
           assists: 2,     
           steals: 1,     
           blocks: 1,      
-          slam_dunks: 0, 
-},
-      {
+          slam_dunks: 0 
+         },
+         {
           name: "Kemba Walker",
           number: 33,    
           shoe: 15,       
@@ -116,28 +116,13 @@ away: {
           assists: 12,     
           steals: 7,     
           blocks: 5,      
-          slam_dunks: 12,  
-          } 
-          ]
-          }
-          }
+          slam_dunks: 12  
+         } 
+        ]
+      }
+    }
 end 
       
       
       
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
   
-  
-end 
