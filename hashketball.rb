@@ -75,7 +75,7 @@ away: {
           assists: 1,     
           steals: 2,     
           blocks: 7,      
-          slam_dunks: 2,  
+          slam_dunks: 2  
     
           name: "Bismack Biyombo",
           number: 0,    
@@ -85,7 +85,7 @@ away: {
           assists: 7,     
           steals: 22,     
           blocks: 15,      
-          slam_dunks: 10,  
+          slam_dunks: 10  
       
           name: "DeSagna Diop ",
           number: 2,    
@@ -95,7 +95,7 @@ away: {
           assists: 12,     
           steals: 4,     
           blocks: 5,      
-          slam_dunks: 5,  
+          slam_dunks: 5  
       
           name: "Ben Gordon",
           number: 8,    
@@ -105,7 +105,7 @@ away: {
           assists: 2,     
           steals: 1,     
           blocks: 1,      
-          slam_dunks: 0, 
+          slam_dunks: 0 
          },
          {
           name: "Kemba Walker",
@@ -116,8 +116,8 @@ away: {
           assists: 12,     
           steals: 7,     
           blocks: 5,      
-          slam_dunks: 12,  
-          } 
+          slam_dunks: 12  
+         } 
         ]
       }
     }
